@@ -2,6 +2,8 @@
 
 In this tutorial, we learn how to use lines to draw 
 various shapes with Python `turtle`.
+It is necessary to have a Gmail account to have 
+access to the materials.
 
 
 | Lecture Topic | Interactive Link | 
